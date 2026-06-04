@@ -35,5 +35,6 @@ The Power BI dashboard provides insights into:
 **Prahlad Somapurkar**
 
 📧 Email: prahladsomapurkar@gmail.com  
-🔗 LinkedIn: Your LinkedIn Profile  
-🔗 GitHub: Your GitHub Profile
+🔗 LinkedIn: https://www.linkedin.com/in/prahlad-somapurkar/
+
+🔗 GitHub: https://github.com/PrahladSomapurkar
